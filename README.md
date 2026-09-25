@@ -80,12 +80,6 @@ During this project I learned:
 
 ---
 
-## 📷 Preview
-
-<img width="900" alt="Digital Visiting Card Preview" src="YOUR_SCREENSHOT_LINK_HERE">
-
----
-
 ## 👨‍💻 Author
 
 **Shivam Tiwari**
